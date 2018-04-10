@@ -1,0 +1,326 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Neutral resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_NEU)
+#ifdef _WIN32
+LANGUAGE LANG_NEUTRAL, SUBLANG_NEUTRAL
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Cursor
+//
+
+IDC_HANDCURSOR          CURSOR                  "handcurs.cur"
+#endif    // Neutral resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_MAIN                ICON                    "MainIcon.ico"
+IDI_PERF0               ICON                    "ico100.ico"
+IDI_PERF1               ICON                    "ico101.ico"
+IDI_PERF2               ICON                    "ico102.ico"
+IDI_PERF3               ICON                    "ico103.ico"
+IDI_PERF4               ICON                    "ico104.ico"
+IDI_PERF5               ICON                    "ico105.ico"
+IDI_PERF6               ICON                    "ico106.ico"
+IDI_PERF7               ICON                    "ico107.ico"
+IDI_PERF8               ICON                    "ico108.ico"
+IDI_PERF9               ICON                    "ico109.ico"
+IDI_PERF10              ICON                    "ico110.ico"
+IDI_PERF11              ICON                    "ico111.ico"
+IDI_PERF12              ICON                    "ico112.ico"
+IDI_PERF13              ICON                    "ico113.ico"
+IDI_PERF14              ICON                    "ico114.ico"
+IDI_PERF15              ICON                    "ico115.ico"
+IDI_PERF16              ICON                    "ico116.ico"
+IDI_PERF17              ICON                    "ico117.ico"
+IDI_PERF18              ICON                    "ico118.ico"
+IDI_PERF19              ICON                    "ico119.ico"
+IDI_PERF20              ICON                    "ico120.ico"
+IDI_PERF21              ICON                    "ico121.ico"
+IDI_PERF22              ICON                    "ico122.ico"
+IDI_PERF23              ICON                    "ico123.ico"
+IDI_PERF24              ICON                    "ico124.ico"
+IDI_PERF25              ICON                    "ico125.ico"
+IDI_PERF26              ICON                    "ico126.ico"
+IDI_PERF27              ICON                    "ico127.ico"
+IDI_PERF28              ICON                    "ico128.ico"
+IDI_PERF29              ICON                    "ico129.ico"
+IDI_PERF30              ICON                    "ico130.ico"
+IDI_PERF31              ICON                    "ico131.ico"
+IDI_PERF32              ICON                    "ico132.ico"
+IDI_PERF33              ICON                    "ico133.ico"
+IDI_PERF34              ICON                    "ico134.ico"
+IDI_PERF35              ICON                    "ico135.ico"
+IDI_PERF36              ICON                    "ico136.ico"
+IDI_PERF37              ICON                    "ico137.ico"
+IDI_PERF38              ICON                    "ico138.ico"
+IDI_PERF39              ICON                    "ico139.ico"
+IDI_PERF40              ICON                    "ico140.ico"
+IDI_PERF41              ICON                    "ico141.ico"
+IDI_PERF42              ICON                    "ico142.ico"
+IDI_PERF43              ICON                    "ico143.ico"
+IDI_PERF44              ICON                    "ico144.ico"
+IDI_PERF45              ICON                    "ico145.ico"
+IDI_PERF46              ICON                    "ico146.ico"
+IDI_PERF47              ICON                    "ico147.ico"
+IDI_PERF48              ICON                    "ico148.ico"
+IDI_PERF49              ICON                    "ico149.ico"
+IDI_PERF50              ICON                    "ico150.ico"
+IDI_PERF51              ICON                    "ico151.ico"
+IDI_PERF52              ICON                    "ico152.ico"
+IDI_PERF53              ICON                    "ico153.ico"
+IDI_PERF54              ICON                    "ico154.ico"
+IDI_PERF55              ICON                    "ico155.ico"
+IDI_PERF56              ICON                    "ico156.ico"
+IDI_PERF57              ICON                    "ico157.ico"
+IDI_PERF58              ICON                    "ico158.ico"
+IDI_PERF59              ICON                    "ico159.ico"
+IDI_PERF60              ICON                    "ico160.ico"
+IDI_PERF61              ICON                    "ico161.ico"
+IDI_PERF62              ICON                    "ico162.ico"
+IDI_PERF63              ICON                    "ico163.ico"
+IDI_PERF64              ICON                    "ico164.ico"
+IDI_PERF65              ICON                    "ico165.ico"
+IDI_PERF66              ICON                    "ico166.ico"
+IDI_PERF67              ICON                    "ico167.ico"
+IDI_PERF68              ICON                    "ico168.ico"
+IDI_PERF69              ICON                    "ico169.ico"
+IDI_PERF70              ICON                    "ico170.ico"
+IDI_PERF71              ICON                    "ico171.ico"
+IDI_PERF72              ICON                    "ico172.ico"
+IDI_PERF73              ICON                    "ico173.ico"
+IDI_PERF74              ICON                    "ico174.ico"
+IDI_PERF75              ICON                    "ico175.ico"
+IDI_PERF76              ICON                    "ico176.ico"
+IDI_PERF77              ICON                    "ico177.ico"
+IDI_PERF78              ICON                    "ico178.ico"
+IDI_PERF79              ICON                    "ico179.ico"
+IDI_PERF80              ICON                    "ico180.ico"
+IDI_PERF81              ICON                    "ico181.ico"
+IDI_PERF82              ICON                    "ico182.ico"
+IDI_PERF83              ICON                    "ico183.ico"
+IDI_PERF84              ICON                    "ico184.ico"
+IDI_PERF85              ICON                    "ico185.ico"
+IDI_PERF86              ICON                    "ico186.ico"
+IDI_PERF87              ICON                    "ico187.ico"
+IDI_PERF88              ICON                    "ico188.ico"
+IDI_PERF89              ICON                    "ico189.ico"
+IDI_PERF90              ICON                    "ico190.ico"
+IDI_PERF91              ICON                    "ico191.ico"
+IDI_PERF92              ICON                    "ico192.ico"
+IDI_PERF93              ICON                    "ico193.ico"
+IDI_PERF94              ICON                    "ico194.ico"
+IDI_PERF95              ICON                    "ico195.ico"
+IDI_PERF96              ICON                    "ico196.ico"
+IDI_PERF97              ICON                    "ico197.ico"
+IDI_PERF98              ICON                    "ico198.ico"
+IDI_PERF99              ICON                    "ico199.ico"
+IDI_PERF100             ICON                    "ico200.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_MAIN DIALOGEX 0, 0, 381, 204
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Perfomance Monitor"
+FONT 8, "MS Sans Serif", 0, 0, 0x0
+BEGIN
+    DEFPUSHBUTTON   "Close",IDC_CLOSE,335,184,39,12
+    CONTROL         "Always on Top?",IDC_ALWAYSONTOP,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,7,186,67,10
+    GROUPBOX        "Memory Performance",IDC_STATIC,7,7,182,71
+    GROUPBOX        "Processor Performance",IDC_STATIC,192,7,182,71
+    CTEXT           "XxXxXxXxXxXxXxXx",IDC_MEMINSTALLED,16,18,166,9
+    LTEXT           "Used:",IDC_MEMUSED_LBL,16,29,20,8
+    LTEXT           "XxXxXxXxXxXxXxXx",IDC_MEMUSED,41,29,65,8
+    CONTROL         "",IDC_MEMUSEDBAR,"msctls_progress32",PBS_SMOOTH | WS_BORDER,16,40,166,9
+    LTEXT           "Free:",IDC_MEMFREE_LBL,16,53,18,8
+    LTEXT           "XxXxXxXxXxXxXxXx",IDC_MEMFREE,41,53,65,8
+    CONTROL         "",IDC_MEMFREEBAR,"msctls_progress32",PBS_SMOOTH | WS_BORDER,16,64,166,9
+    CTEXT           "XxXxXxXxXxXxXxXx",IDC_CPUINSTALLED,201,18,166,9
+    LTEXT           "Usage:",IDC_CPUUSAGE_LBL,201,29,24,8
+    LTEXT           "XxXxXxXxXxXxXxXx",IDC_CPUUSAGE,226,29,65,8
+    CONTROL         "",IDC_CPUUSAGEBAR,"msctls_progress32",PBS_SMOOTH | WS_BORDER,201,40,166,9
+    LTEXT           "Idle:",IDC_CPUIDLE_LBL,201,53,18,8
+    LTEXT           "XxXxXxXxXxXxXxXx",IDC_CPUIDLE,226,53,65,8
+    CONTROL         "",IDC_CPUIDLEBAR,"msctls_progress32",PBS_SMOOTH | WS_BORDER,201,64,166,9
+    CONTROL         "",IDC_GRAPH,"Static",SS_BLACKRECT | SS_SUNKEN | WS_BORDER,16,91,351,83
+    GROUPBOX        "System Performance",IDC_STATIC,7,81,367,99
+END
+
+IDD_NETLOGO DIALOGEX 0, 0, 273, 87
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "IDD_NETLOGO"
+FONT 8, "MS Sans Serif", 0, 0, 0x0
+BEGIN
+    ICON            "",IDC_ABOUTICON,9,7,20,20
+    LTEXT           "IDC_APPNAME",IDC_APPNAME,84,7,159,8
+    LTEXT           "IDC_APPVERSION",IDC_APPVERSION,84,17,159,8
+    LTEXT           "IDC_APPCOPYRIGHT",IDC_APPCOPYRIGHT,44,53,192,8
+    CONTROL         "",IDC_STATIC,"Static",SS_ETCHEDHORZ,40,63,234,1
+    DEFPUSHBUTTON   "OK",IDC_OKBUTTON,220,69,50,14
+    LTEXT           "IDC_BUILDTIMEDATE",IDC_BUILDTIMEDATE,84,27,159,8
+    LTEXT           "www.NetworkDLS.com",IDC_NETLINK,84,37,159,8
+    LTEXT           "Web site:",IDC_STATIC,44,37,31,8
+    LTEXT           "Application:",IDC_STATIC,44,7,38,8
+    LTEXT           "Version:",IDC_STATIC,44,17,26,8
+    LTEXT           "Build:",IDC_STATIC,44,27,18,8
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_MAIN, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 374
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 196
+    END
+
+    IDD_NETLOGO, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 179
+        VERTGUIDE, 248
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 65
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,2
+ PRODUCTVERSION 1,0,0,2
+ FILEFLAGSMASK 0x17L
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x40000L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "Comments", "Resource Monitor"
+            VALUE "CompanyName", "NetworkDLS"
+            VALUE "FileDescription", "Resource Monitor"
+            VALUE "FileVersion", "1.0.0.2"
+            VALUE "InternalName", "Resource Monitor"
+            VALUE "LegalCopyright", "Copyright © 2009 NetworkDLS. All rights reserved."
+            VALUE "OriginalFilename", "ResMon.exe"
+            VALUE "ProductName", "Resource Monitor"
+            VALUE "ProductVersion", "1.0.0.2"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE 
+BEGIN
+    IDS_TITLECAPTION        "Resource Monitor"
+    IDS_FILEVERSION         "1.0.0.2"
+    IDS_APPCOPYRIGHT        "Copyright © 2009 NetworkDLS. All rights reserved."
+    IDS_REGISTRYKEY         "Software\\NetworkDLS\\Resource Monitor"
+END
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
